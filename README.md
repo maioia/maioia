@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mai.A.K
+# Hi 👋, I'm Mai
 
 ### An experienced Javascript developer
 
