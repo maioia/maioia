@@ -2,8 +2,6 @@
 
 ### An experienced Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maioia&label=Profile views&color=0e75b6&style=flat" alt="maioia" /> </p>
-
 - 🔭 I'm currently working on **front End development projects**
 
 - 🌱 I'm currently learning **Backend development using node.js**
