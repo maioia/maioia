@@ -8,7 +8,7 @@
 
 - 🤝 I'm looking for help with **learning fullstack development**
 
-- 💬 Ask me about **HTML, CSS, Javascript,Typescript, react.js, Next.js**
+- 💬 Ask me about **HTML, CSS, Javascript,Typescript, react.js, react native, Next.js**
 
 - 📫 How to reach me **mai.e84.engineer@gmail.com**
 
